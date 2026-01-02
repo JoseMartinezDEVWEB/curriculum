@@ -4,12 +4,12 @@ const heroImageUrl = new URL(
 ).href
 
 const galleryUrls = [
-  new URL('../../img/Imagen de WhatsApp 2025-11-26 a las 19.55.39_7cb3ce7a.jpg', import.meta.url).href,
-  new URL('../../img/Imagen de WhatsApp 2025-11-26 a las 19.55.40_e5770bfd.jpg', import.meta.url).href,
-  new URL('../../img/Imagen de WhatsApp 2025-11-26 a las 19.55.40_f7e19219.jpg', import.meta.url).href,
-  new URL('../../img/Imagen de WhatsApp 2025-11-26 a las 19.55.41_aa332a79.jpg', import.meta.url).href,
-  new URL('../../img/Imagen de WhatsApp 2025-11-26 a las 19.55.41_d76e7eb9.jpg', import.meta.url).href,
-  new URL('../../img/Imagen de WhatsApp 2025-11-26 a las 19.55.42_cae1abff.jpg', import.meta.url).href
+  new URL('../../img/img-2025-11-26-19.55.39_7cb3ce7a.jpg', import.meta.url).href,
+  new URL('../../img/img-2025-11-26-19.55.40_e5770bfd.jpg', import.meta.url).href,
+  new URL('../../img/img-2025-11-26-19.55.40_f7e19219.jpg', import.meta.url).href,
+  new URL('../../img/img-2025-11-26-19.55.41_aa332a79.jpg', import.meta.url).href,
+  new URL('../../img/img-2025-11-26-19.55.41_d76e7eb9.jpg', import.meta.url).href,
+  new URL('../../img/img-2025-11-26-19.55.42_cae1abff.jpg', import.meta.url).href
 ]
 
 const cvPdfUrl = new URL('../../Santa Isabel Adon Vallejo02.pdf', import.meta.url).href
