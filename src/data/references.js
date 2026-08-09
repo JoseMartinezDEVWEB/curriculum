@@ -1,5 +1,5 @@
 export const references = [
-  { name: 'Sra. Noemi Pinales', phone: '809-252-9124' },
-  { name: 'Sra. Leandry Galletano', phone: '809-439-5502' },
-  { name: 'Sr. Neftali Cueva', phone: '809-669-6340' }
+  { name: 'Sr. Ismael Rpdriguez', phone: '809-650-5555' },
+  { name: 'Sra. Noemi Pinalez', phone: '809-252-9124' },
+  { name: 'Sr. Juan Carlos Piña', phone: '809-252-9124' },
 ]
